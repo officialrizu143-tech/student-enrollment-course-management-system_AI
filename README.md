@@ -1,2 +1,9 @@
-# student-enrollment-course-management-system_AI
-A Student Enrollment and Course Management System
+student-enrollment-course-management-system/
+│
+├── README.md
+├── lib/
+├── assets/
+├── android/
+├── ios/
+├── web/
+└── pubspec.yaml
